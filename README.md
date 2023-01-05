@@ -1,2 +1,1 @@
-# 2022-data-visualization
-데이터시각화
+# 2022 Data Visualization
